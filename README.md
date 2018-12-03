@@ -23,7 +23,7 @@ newCacheThreadPool (推荐使用)可缓存的线程池，如果线程池的当�
 newScheduledThreadPool 延迟任务的固定长度的线程池，而且以延迟或定时的方式来执行任务，类似于Timer。
 拿newCacheThreadPool来说，每次submit一个线程进去都会进行执行，执行完成自动填充下一个任务。
 例子：开一堆线程来计算斐波那契数列前30个：
-![image]()
+![image](https://github.com/272437543/interview/blob/master/%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%BB%93%E6%9E%9C.png)
 当线程1执行完成后，马上线程池又给它按排上了新的线程（第二行和第五行）
 
 tcp/ip 三次握手 四次挥手 模型
