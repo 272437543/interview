@@ -28,7 +28,7 @@ newScheduledThreadPool 延迟任务的固定长度的线程池，而且以延迟
 
 tcp/ip模型
 OSI的七层模型，TCP/IP协议集的四层模型
-![image]()
+![image](https://github.com/272437543/interview/blob/master/20170321140028195.jpg)
 
 三次握手 四次挥手
 连接(.connect()方法调用后)
@@ -69,7 +69,7 @@ b+树 （检索文件）
 （1 1 2 3 5 8 13）
 实现：递归和非递归
 特殊法：矩阵相乘o（logn）
-![image]()
+![image](https://github.com/272437543/interview/blob/master/TIM%E6%88%AA%E5%9B%BE20181204175524.png)
 公式法o（logN，因为是求N次幂，最快logN）
 前n项和Sn=a（n+2）-1
 
