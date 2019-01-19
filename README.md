@@ -59,6 +59,13 @@ json
 这段字符串即可表示一个学生对象，并赋值名字为drake，年龄18（当然没有复制的话就是默认值）
 通过eval()方法来建立原生的js对象
 
+hashmap和hashtable的区别
+1.实现接口不同(hashtable:dictionary, hashmap:map)。
+2.线程安全不同(table自带synchronized)。
+3.hashmap允许null，hashtable不允许null。
+
+Python中元组tuple，列表list的区别：
+tuple和list一样为线性链表，而tuple不允许进行修改。list可以进行修改。
 
 算法题：
 b+树 （检索文件）
