@@ -67,6 +67,8 @@ hashmap和hashtable的区别
 Python中元组tuple，列表list的区别：
 tuple和list一样为线性链表，而tuple不允许进行修改。list可以进行修改。
 
+Java的设计模式（参考：http://www.runoob.com/design-pattern/design-pattern-intro.html ）
+
 算法题：
 b+树 （检索文件）
 
