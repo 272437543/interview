@@ -67,6 +67,12 @@ hashmap和hashtable的区别
 Python中元组tuple，列表list的区别：
 tuple和list一样为线性链表，而tuple不允许进行修改。list可以进行修改。
 
+Redis：数据结构，string list hash set sort-set，解决了什么问题
+redis作为缓存：缓存用来做什么，什么情况下用，如何评估缓存是否生效，缓存穿透
+mq工作原理
+mybatis用了哪些技能，特性
+rpc解决了什么问题，工作原理
+
 Java的设计模式（参考：http://www.runoob.com/design-pattern/design-pattern-intro.html ）
 
 算法题：
